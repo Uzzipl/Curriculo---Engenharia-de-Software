@@ -3,4 +3,3 @@ Olá meu nome é Uzires Portugal Laureano sou um estudante de Engenharia de Soft
  
  # Hard skills
 * estou aprendendo três tipos de linguagem atualmente...
-git
