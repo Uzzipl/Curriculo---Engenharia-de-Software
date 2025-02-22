@@ -23,7 +23,24 @@ body{
 
   }
   /* trabalho estilo da imagem*/
-  .foto.perfil{
+  .foto-perfil{
     width: 150px;
     height: 150px;
+    border-radius: 50%;
+    border: 3px solid bisque;
+  }
+
+  section{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+
+  }
+  /* Estilização rodapé*/
+  footer{
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+    box-shadow: 0px,0,10,rgba(0, 0, 0, 0.1);
   }
